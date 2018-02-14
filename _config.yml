@@ -1,17 +1,17 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: Dreyton Portfolio
+description: A static web page to showcase my development skills.
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Anon Developer
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
-user_title: Software Developer
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
+username: Dreyton Scott
+user_description: Full stack developer craftsman  with 2+ years experience developing highly secure and efficient databases with SQL, Postgres and Redis. Highly accountable team player with phenomenal time management skills. Developed several large scale web and mobile applications using different technology stacks.
+user_title: Computer Scientist
+email: drekscott@gmail.com
+twitter_username:
+github_username: drekscott
+gplus_username: ninekcompany
 
 # Google-analytics
 google-analytics:
